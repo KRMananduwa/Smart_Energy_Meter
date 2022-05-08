@@ -59,7 +59,7 @@ The Smart meters communicate the information to the consumer for greater clarity
 			+---------------------------------+------+-----------------------+
 			|PCB Board                        |   1  |  Available in Market  |
 			+---------------------------------+------+-----------------------+
-			|Ferric Chloride Bottle           |  1   |  Available in Market  |
+			|Ferric Chloride Bottle           |   1  |  Available in Market  |
 			+---------------------------------+------+-----------------------+
 			|Plastic 3D Printed Enclosure     |   1  | Available in Market   |
 			+---------------------------------+------+-----------------------+
@@ -77,7 +77,7 @@ The Smart meters communicate the information to the consumer for greater clarity
 			+-----------------------------+---------------+-------+
 			|ESP 8266 Node MCU Module     |   1080.00     | 5.80  |
 			+-----------------------------+---------------+-------+
-			|ACS 712 Current Sensor       |    480.00     |  2.50 |
+			|ACS 712 Current Sensor       |    480.00     | 2.50  |
 			+-----------------------------+---------------+-------+
 			|16×2 LCD display             |    320.00     | 1.72  |
 			+-----------------------------+---------------+-------+
@@ -91,7 +91,7 @@ The Smart meters communicate the information to the consumer for greater clarity
 			+-----------------------------+---------------+-------+
 			|PCB Board                    |    120.00     | 0.64  |
 			+-----------------------------+---------------+-------+
-			|Ferric Chloride Bottle       |     70.00     |  0.38 |
+			|Ferric Chloride Bottle       |     70.00     | 0.38  |
 			+-----------------------------+---------------+-------+
 			|Plastic 3D Printed Enclosure |               |       |
 			+-----------------------------+---------------+-------+
@@ -105,7 +105,7 @@ The Smart meters communicate the information to the consumer for greater clarity
 	As per the project planning, this project is divided into three main sections such as software, hardware and electronic implementation. 
 	Those sections are again divided into subcategories and need to be carried out parallel to each other.
 	
-	`Click here to view Gantt Chart <https://docs.google.com/spreadsheets/d/1fzoOzbvNC6VbxvWGMw2JjhFJQQX9qnlK9_MVRJGmxj8/edit?usp=sharing/>`_
+	[Click here] to view Gantt Chart (https://docs.google.com/spreadsheets/d/1fzoOzbvNC6VbxvWGMw2JjhFJQQX9qnlK9_MVRJGmxj8/edit?usp=sharing/)
 	
 	3.4	Procedure
 	-------------
