@@ -22,7 +22,8 @@ The Smart meters communicate the information to the consumer for greater clarity
 	------------------------
 		Project management is an important process. It helps to define the objectives, scope and milestones. 
 		Also, the success of the project depends on proper well-defined planning and management. 
-		A list of the tasks and activities that must be accomplished to reach the milestones have been listed below.
+		A list of the tasks and activities that must be accomplished to reach the milestones have been 
+		listed below.
  
 		*	Material Selection & Cost survey
 		*	Time Planning
@@ -38,8 +39,10 @@ The Smart meters communicate the information to the consumer for greater clarity
 		3.2.1	Materials selection
 		~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			The next most important step of this project planning is materials selection. 
-			find the most suitable hardware and components for the project, the market survey is necessary considering usability and associated costs. 
-			So as per the market survey carried out, the following items were deemed as suitable for the project:
+			find the most suitable hardware and components for the project, the market survey is necessary
+			considering usability and associated costs. 
+			So as per the market survey carried out, the following items were deemed as suitable for 
+			the project:
 
 			+---------------------------------+------+-----------------------+
 			|PARTS                            | Qty. |    AVAILABILITY       |
@@ -69,9 +72,12 @@ The Smart meters communicate the information to the consumer for greater clarity
 
 		3.2.2	Cost Estimation
 		~~~~~~~~~~~~~~~~~~~~~~~
-			Cost planning establishes the baseline of the project cost at individual steps of development of the project. 
-			When designing a cost-effective smart meter, cost control is necessary to prevent unnecessary expenses and to allocate the amount of expenditure to each requirement. 
-			Following chart shows cost estimation, considering the materials selected for the project as shown in section 3.2.1 which is calculated as of 2020, October.
+			Cost planning establishes the baseline of the project cost at individual steps of development 
+			of the project. 
+			When designing a cost-effective smart meter, cost control is necessary to prevent unnecessary 
+			expenses and to allocate the amount of expenditure to each requirement. 
+			Following chart shows cost estimation, considering the materials selected for the project as 
+			shown in section 3.2.1 which is calculated as of 2020, October.
 			
 			+-----------------------------+---------------+-------+
 			|PARTS                        |  COST (LKR)   |  USD  |
@@ -100,19 +106,25 @@ The Smart meters communicate the information to the consumer for greater clarity
 			+-----------------------------+---------------+-------+
 			|TOTAL                        |   3715.00     | 19.88 |
 			+=============================+===============+=======+
-			* (In year 2020 1 United States Dollar equals 186.10 Sri Lankan Rupee - Indicative exchange rate may vary)
+			* (In year 2020 1 United States Dollar equals 186.10 Sri Lankan Rupee - Indicative exchange 
+			rate may vary)
 			
 	3.3	Time Planning
 	-----------------
-	Scheduling is the proper way of managing project time. Managing time and progress will allow completing the project on the expected deadline. 
-	As per the project planning, this project is divided into three main sections such as software, hardware and electronic implementation. 
+	Scheduling is the proper way of managing project time. Managing time and progress will allow completing the 
+	project on the expected deadline. 
+	As per the project planning, this project is divided into three main sections such as software, hardware 
+	and electronic implementation. 
 	Those sections are again divided into subcategories and need to be carried out parallel to each other.
 	
-	[Click here] to view Gantt Chart (https://docs.google.com/spreadsheets/d/1fzoOzbvNC6VbxvWGMw2JjhFJQQX9qnlK9_MVRJGmxj8/edit?usp=sharing/)
+	Link to view Gantt Chart 
+	(https://docs.google.com/spreadsheets/d/1fzoOzbvNC6VbxvWGMw2JjhFJQQX9qnlK9_MVRJGmxj8/edit?usp=sharing/)
 	
 	3.4	Procedure
 	-------------
 	This project is based on Arduino platform and Arduino-Nano board is the major component of this meter. 
 	Current is measured through the ACS 712 current sensor.
-	ESP8266 Wi-Fi module is used to transmit data which includes energy consumption details, to the attached display via i2c module portraying real-time values & same is forwarded to log the data employing IFTTT platform and MQTT dashboard enabling remote monitoring of data via an app.
+	ESP8266 Wi-Fi module is used to transmit data which includes energy consumption details, to the attached 
+	display via i2c module portraying real-time values & same is forwarded to log the data employing IFTTT 
+	platform and MQTT dashboard enabling remote monitoring of data via an app.
 
