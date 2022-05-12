@@ -1,3 +1,6 @@
+---
+layout: default
+---
 Smart Energy Meter
 ==================
 *by Kanishka Rangana (18sea052)*
