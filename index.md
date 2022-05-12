@@ -10,6 +10,7 @@ Smart Energy Meter
 A smart meter is an electronic device that records information such as consumption of electric energy, voltage levels and current. 
 This meter is used to know how much energy has been consumed. 
 The Smart meters communicate the information to the consumer for greater clarity of consumption behavior.
+<img src="Images/Finished Product/Energy Meter Front When Device ON.jpg" alt="SmartEnergyMeterImage" style="width:416px;height:312px;">
 
 2 Project Aims & Objectives
 
