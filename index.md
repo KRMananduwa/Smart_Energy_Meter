@@ -127,4 +127,3 @@ The Smart meters communicate the information to the consumer for greater clarity
 	ESP8266 Wi-Fi module is used to transmit data which includes energy consumption details, to the attached 
 	display via i2c module portraying real-time values & same is forwarded to log the data employing IFTTT 
 	platform and MQTT dashboard enabling remote monitoring of data via an app.
-
